@@ -56,3 +56,19 @@ Este repositório reúne scripts Python práticos e aplicáveis ao dia a dia de 
 
 ```bash
 pip install pandas psutil pywin32 openpyxl
+
+Scripts como imprimir.py e Certificados.py exigem execução com permissões administrativas para pleno funcionamento
+
+**📎 Observações**
+Nenhum script expõe informações confidenciais ou dados sensíveis
+
+Os caminhos de pastas podem ser ajustados conforme ambiente do usuário
+
+Todos os scripts foram testados em ambiente Windows 10/11
+
+✍️ Autor
+Aloyr Rezende
+🔗 LinkedIn
+
+📜 Licença
+Uso livre para fins educacionais, internos ou corporativos, com atribuição. Melhorias e pull requests são bem-vindos!
