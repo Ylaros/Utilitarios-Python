@@ -1,4 +1,4 @@
-# 🛠️ Utilitários Python – Automação Contábil e Administrativa
+# 🛠️ Utilitários Python
 
 Este repositório reúne scripts Python práticos e aplicáveis ao dia a dia de ambientes contábeis, fiscais e administrativos. São ferramentas desenvolvidas para auxiliar tarefas como impressão em lote, renomeação de arquivos OFX, monitoramento de segurança e manipulação de certificados digitais.
 
